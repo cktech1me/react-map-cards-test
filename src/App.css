@@ -1,0 +1,21 @@
+.App {
+  padding: 5rem;
+}
+
+/* .cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 50%;
+  float: left;
+}
+
+.leaflet-container {
+  width: 50%;
+  height: 100vh;
+} */
+
+.map-popup {
+  font-size: 1rem;
+  font-weight: 800;
+  text-align: center;
+}
